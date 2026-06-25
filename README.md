@@ -1,3 +1,13 @@
+---
+lab:
+    title: TechLab: TechLab: Terminal to Party: Live-Coding with Copilot CLI and Hydra
+    description:
+    level: 200
+    duration: 120 minutes
+    islab: true
+    primarytopics:
+---
+
 # LAB500: Terminal to Party - Live-Coding with GitHub Copilot CLI and Hydra
 
 Welcome to the GitHub Copilot Dance Party! Over the next \~75 minutes you'll turn a blank app into a browser-based AV playground - part code editor, part synth rig, part dance floor - with GitHub Copilot CLI riding shotgun the entire set.
